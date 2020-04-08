@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: mall-msg
+  jmx:
+    default-domain: mall-msg
